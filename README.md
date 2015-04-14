@@ -15,12 +15,6 @@ Team Member: [Mathew Hawley](https://github.com/mathewhawley)
 - jQuery
 - Google Places API
 
-#### Key Takeaways
-
-- Focused on utilising external APIs and working collaboratively in a team.
-- Developed the logic for aggregating ratings in the database with Ruby and dynamically on the front-end with Javascript
-- Pair programmed the functions to query the Google Places API through an Ajax request, access the specific data from the JSON object, and write the data to our database
-
 ## Getting Started
 
 Visit the [Heroku App](https://productive-coffee.herokuapp.com) or clone the repo:
